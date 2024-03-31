@@ -1,4 +1,6 @@
 # Healthy-plankton
+#The problem: Baikal has been monitored for more than 75 years, all these years, the analysis of samples is carried out manually. This process is time-consuming and must be performed by highly qualified specialists.
+Solution: Development of an object recognition system to simplify environmental monitoring of Lake Baikal.
 import cv2
 
 cam = cv2.VideoCapture(0)
